@@ -1,3 +1,3 @@
-Practicing Creating HTML Emails
+Practicing Creating Responsive HTML Emails
 
 ![alt image](screenshot.jpg)
